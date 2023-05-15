@@ -20,3 +20,5 @@ const QuizSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('UserScores', QuizSchema);
+
+// Testing the API
